@@ -16,11 +16,11 @@ body {
 .wrapper {
   margin: 0 auto;
   width: 60%;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 #content {
-  padding: 10;
+  padding: 20px;
   background: rgba(255,255,255,.85);
 }
 
